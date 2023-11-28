@@ -1,7 +1,9 @@
-# Collection (29)
+# Collection (45)
 ## A biologist’s guide to planning and performing quantitative bioimaging experiments
 
 Rebecca A. Senft, Barbara Diaz-Rohrer, Pina Colarusso, Lucy Swift, Nasim Jamali, Helena Jambor, Thomas Pengo, Craig Brideau, Paula Montero Llopis, Virginie Uhlmann, Jason Kirk, Kevin Andrew Gonzales, Peter Bankhead, Edward L. Evans III, Kevin W. Eliceiri, Beth A. Cimini
+
+Licensed BSD 3-Clause
 
 
 
@@ -46,6 +48,8 @@ Content type: collection, video
 
 ## Bio.tools database
 
+Licensed cc-by-4.0
+
 
 
 Tags: bioinformatics
@@ -59,6 +63,8 @@ Content type: collection
 
 ## BioImage Informatics Index Training Materials
 
+Licensed ODC BY 1.0
+
 
 
 Tags: bioimage analysis
@@ -70,11 +76,39 @@ Content type: collection
 
 ---
 
+## Bioimage Archive
+
+
+
+Content type: collection, data, publiction
+
+[https://www.ebi.ac.uk/bioimage-archive/](https://www.ebi.ac.uk/bioimage-archive/)
+
+[https://www.sciencedirect.com/science/article/abs/pii/S0022283622000791](https://www.sciencedirect.com/science/article/abs/pii/S0022283622000791)
+
+
+---
+
+## Bioimage Model Zoo
+
+Licensed unknown
+
+
+
+Tags: bioimage analysis, artificial intelligence
+
+Content type: collection
+
+[https://bioimage.io/](https://bioimage.io/)
+
+
+---
+
 ## Bioimage analysis with Napari
 
 Fabrizio Musacchio
 
-Licensed CC BY-NC-SA 4.0
+Licensed cc-by-nd-sa-4.0
 
 
 
@@ -87,9 +121,37 @@ Content type: collection
 
 ---
 
+## COBA: Center for Open Bioimage Analysis YouTube Channel
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@cobacenterforopenbioimagea1864](https://www.youtube.com/@cobacenterforopenbioimagea1864)
+
+
+---
+
+## CZI: Open Science Program Collection
+
+
+
+Content type: collection
+
+[https://zenodo.org/communities/eoss](https://zenodo.org/communities/eoss)
+
+
+---
+
 ## Cell Tracking Challenge - 2D Datasets
 
+Licensed unknown
 
+
+
+Tags: bioimage analysis
 
 Content type: collection, data
 
@@ -100,11 +162,58 @@ Content type: collection, data
 
 ## Cell Tracking Challenge - 3D Datasets
 
+Licensed unknown
 
+
+
+Tags: bioimage analysis
 
 Content type: collection, data
 
 [http://celltrackingchallenge.net/3d-datasets/](http://celltrackingchallenge.net/3d-datasets/)
+
+
+---
+
+## CellTrackColab
+
+Guillaume Jacquemet
+
+Licensed mit
+
+
+
+Content type: notebook, collection
+
+[https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2](https://www.biorxiv.org/content/10.1101/2023.10.20.563252v2)
+
+[https://github.com/guijacquemet/CellTracksColab](https://github.com/guijacquemet/CellTracksColab)
+
+
+---
+
+## Center for Microscopy and Image Analysis How-to Guides
+
+
+
+Content type: collection
+
+[https://zmb.dozuki.com/c/Image_Analysis](https://zmb.dozuki.com/c/Image_Analysis)
+
+
+---
+
+## DL4MicEverywhere
+
+Iván Hidalgo, et al.
+
+Licensed cc-by-4.0
+
+
+
+Content type: notebook, collection
+
+[https://github.com/HenriquesLab/DL4MicEverywhere](https://github.com/HenriquesLab/DL4MicEverywhere)
 
 
 ---
@@ -137,7 +246,22 @@ Content type: collection, video
 
 ---
 
+## Fiji Is Just ImageJ Tutorials
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb](https://www.youtube.com/playlist?list=PL5Edc1v41fyCLFZbBCLo41zFO-_cXBfAb)
+
+
+---
+
 ## Forschungsdaten.info
+
+Licensed public domain
 
 
 
@@ -154,6 +278,8 @@ Content type: collection
 
 ## Forschungsdaten.org
 
+Licensed cc-by-4.0
+
 
 
 Research Data Management Wiki in German
@@ -168,6 +294,8 @@ Content type: collection
 ---
 
 ## GerBI Teaching Resources Link List
+
+Licensed unknown
 
 
 
@@ -206,6 +334,8 @@ Content type: collection, video
 
 ## I3D:bio list of online training material
 
+Licensed unknown
+
 
 
 List of links to training materials by the I3D:bio community.
@@ -234,7 +364,52 @@ Content type: collection, video
 
 ---
 
+## Image Data Resources
+
+
+
+Content type: collection, data, publication
+
+[https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
+
+[https://www.nature.com/articles/nmeth.4326](https://www.nature.com/articles/nmeth.4326)
+
+
+---
+
+## Imaris Tutorials
+
+Licensed All rights reserved
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://imaris.oxinst.com/tutorials](https://imaris.oxinst.com/tutorials)
+
+
+---
+
+## Melbourne Advanced Microscopy Facility
+
+
+
+Collection of tutorial videos for Fiji users
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@melbourneadvancedmicroscop2617](https://www.youtube.com/@melbourneadvancedmicroscop2617)
+
+
+---
+
 ## MicroscopyDB
+
+Licensed All Rights Reserved
 
 
 
@@ -290,6 +465,8 @@ Content type: collection, event
 
 ## OMERO Guide
 
+Licensed BSD 2-clause
+
 
 
 Tags: omero
@@ -297,6 +474,21 @@ Tags: omero
 Content type: collection
 
 [https://omero-guides.readthedocs.io/en/latest/](https://omero-guides.readthedocs.io/en/latest/)
+
+
+---
+
+## Omero Deployment examples
+
+Licensed bsd-2-clause
+
+
+
+Tags: omero
+
+Content type: collection
+
+[https://github.com/ome/omero-deployment-examples](https://github.com/ome/omero-deployment-examples)
 
 
 ---
@@ -316,7 +508,26 @@ Content type: collection, video
 
 ---
 
+## Python for Microscopists
+
+Sreenivas Bhattiprolu
+
+Licensed unknown
+
+
+
+Tags: Python, bioimage analysis
+
+Content type: notebook, collection
+
+[https://github.com/bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
+
+
+---
+
 ## RDM4Mic Presentations
+
+Licensed cc-by-4.0
 
 
 
@@ -329,7 +540,20 @@ Content type: collection
 
 ---
 
+## RDMBites BioImage metadata
+
+
+
+Content type: collection, video
+
+[https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1](https://www.youtube.com/watch?v=aRHNHk07t3Q&list=PLyCNTVs-UBvuJF7WausQ5q7v7pI1vEpI1)
+
+
+---
+
 ## RDMKit Training Resources
+
+Licensed cc-by-4.0
 
 
 
@@ -357,6 +581,8 @@ Content type: collection, event
 
 ## TESS training materials
 
+Licensed unknown
+
 
 
 Tags: bioinformatics
@@ -370,7 +596,7 @@ Content type: collection
 
 ## ZEN & Python workshop
 
-Licensed GPL-3.0
+Licensed gpl-3.0
 
 
 
@@ -383,7 +609,43 @@ Content type: collection, notebook
 
 ---
 
+## ZeroCostDL4Mic: exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy
+
+Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loic Alain Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques
+
+Licensed mit
+
+
+
+Content type: notebook, collection
+
+[https://github.com/HenriquesLab/ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic)
+
+[https://www.nature.com/articles/s41467-021-22518-0](https://www.nature.com/articles/s41467-021-22518-0)
+
+[https://doi.org/10.1038/s41467-021-22518-0](https://doi.org/10.1038/s41467-021-22518-0)
+
+
+---
+
+## arivis Vision4D Tutorials
+
+Licensed All rights reserved
+
+
+
+Tags: Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0](https://www.youtube.com/playlist?list=PLRc9dt9lEZh_SVRC4G5moOvgHuvjPwmv0)
+
+
+---
+
 ## microlist
+
+Licensed All Rights Reserved
 
 
 

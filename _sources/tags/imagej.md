@@ -3,7 +3,7 @@
 
 Albert Cardona
 
-Licensed Public domain
+Licensed CC0
 
 
 
@@ -37,6 +37,8 @@ Robert Haase, Loic Royer, et al
 
 Published 2020
 
+Licensed All Rights Reserved
+
 
 
 CLIJ is a collection of image processing functions that use graphics processing units for accelerated processing.
@@ -58,7 +60,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -70,6 +72,8 @@ Content type: slide
 ## Introduction to Bioimage Analysis
 
 Pete Bankhead
+
+Licensed cc-by-4.0
 
 
 
@@ -86,11 +90,11 @@ Content type: book, notebook
 
 Robert Haase, Benoit Lombardot
 
-Licensed CC-BY-NC 4.0
+Licensed cc-by-nc-4.0
 
 
 
-Tags: imagej
+Tags: imagej, fiji, bioimage analysis
 
 [https://github.com/mpicbg-scicomp/CourseIntroToIA](https://github.com/mpicbg-scicomp/CourseIntroToIA)
 
@@ -101,9 +105,11 @@ Tags: imagej
 
 Robert Haase, Benoit Lombardot
 
+Licensed unknown
 
 
-Tags: imagej
+
+Tags: imagej, bioimage analysis
 
 Content type: slide
 
@@ -114,7 +120,7 @@ Content type: slide
 
 ## JIPipe: visual batch processing for ImageJ
 
-Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 
 
@@ -196,7 +202,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Multiview Fusion in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -208,6 +214,8 @@ Content type: slide
 ## The Fiji Updater
 
 Robert Haase
+
+Licensed All Rights Reserved
 
 
 
@@ -232,7 +240,7 @@ Licensed BSD 3-Clause
 
 Lecture slides of a session on Cell Tracking in Fiji
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -249,7 +257,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 
@@ -266,7 +274,7 @@ Licensed BSD 3-Clause
 
 
 
-Tags: imagej, bioimage analysis
+Tags: neubias, imagej, bioimage analysis
 
 Content type: slide
 

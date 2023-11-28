@@ -1,6 +1,8 @@
 # Napari (7)
 ## Annotating 3D images in napari
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -16,7 +18,7 @@ Content type: blog
 
 Fabrizio Musacchio
 
-Licensed CC BY-NC-SA 4.0
+Licensed cc-by-nd-sa-4.0
 
 
 
@@ -31,6 +33,8 @@ Content type: collection
 
 ## Feature extraction in napari
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -43,6 +47,8 @@ Content type: blog
 ---
 
 ## Quality assurance of segmentation results
+
+Mara Lampert
 
 
 
@@ -57,6 +63,8 @@ Content type: blog
 
 ## Rescaling images and pixel (an)isotropy
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -69,6 +77,8 @@ Content type: blog
 ---
 
 ## Tracking in napari
+
+Mara Lampert
 
 
 
@@ -83,7 +93,7 @@ Content type: blog
 
 ## ZEN & Python workshop
 
-Licensed GPL-3.0
+Licensed gpl-3.0
 
 
 

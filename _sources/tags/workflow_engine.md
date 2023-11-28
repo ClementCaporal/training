@@ -1,4 +1,21 @@
-# Workflow engine (8)
+# Workflow engine (11)
+## AI4Life teams up with Galaxy Training Network (GTN) to enhance training resources
+
+Caterina Fuster-Barceló
+
+Licensed unknown
+
+
+
+Tags: artificial intelligence, workflow engine, bio-image analysis
+
+Content type: documentation
+
+[https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/](https://ai4life.eurobioimaging.eu/ai4life-teams-up-with-galaxy-training-network-gtn-to-enhance-training-resources/)
+
+
+---
+
 ## BiaPy: Bioimage analysis pipelines in Python
 
 Daniel Franco-Barranco et al
@@ -12,6 +29,25 @@ Tags: workflow engine, python
 Content type: documentation
 
 [https://biapy.readthedocs.io/](https://biapy.readthedocs.io/)
+
+
+---
+
+## BioEngine
+
+Jeremy Metz, Beatriz Serrano-Solano, Wei Ouyang
+
+Licensed unknown
+
+
+
+BioEnging is a cloud infrastructure to run BioImage model zoo based workflows in the cloud.
+
+Tags: artificial intelligence, workflow engine
+
+Content type: publication
+
+[https://ai4life.eurobioimaging.eu/announcing-bioengine/](https://ai4life.eurobioimaging.eu/announcing-bioengine/)
 
 
 ---
@@ -48,7 +84,7 @@ Content type: documentation
 
 ## JIPipe: visual batch processing for ImageJ
 
-Ruman Gerst, Zoltán Cseresnyés & Marc Thilo Figge
+Ruman Gerst, Zoltán Cseresnyés, Marc Thilo Figge
 
 
 
@@ -114,6 +150,29 @@ Tags: workflow engine
 Content type: documentation
 
 [https://www.nextflow.io/](https://www.nextflow.io/)
+
+
+---
+
+## Nextflow: Scalable and reproducible scientific workflows
+
+Floden, Evan, Di Tommaso, Paolo
+
+Published 2020-12-17
+
+Licensed cc-by-4.0
+
+
+
+Nextflow is an open-source workflow management system that prioritizes portability and reproducibility. It enables users to develop and seamlessly scale genomics workflows locally, on HPC clusters, or in major cloud providers&rsquo; infrastructures. Developed since 2014 and backed by a fast-growing community, the Nextflow ecosystem is made up of users and developers across academia, government and industry. It counts over 1M downloads and over 10K users worldwide.
+
+Tags: workflow engine
+
+Content type: slide
+
+[https://zenodo.org/records/4334697](https://zenodo.org/records/4334697)
+
+[https://doi.org/10.5281/zenodo.4334697](https://doi.org/10.5281/zenodo.4334697)
 
 
 ---

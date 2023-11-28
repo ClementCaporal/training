@@ -1,6 +1,8 @@
 # Blog (15)
 ## Annotating 3D images in napari
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -13,6 +15,10 @@ Content type: blog
 ---
 
 ## Browsing the Open Microscopy Image Data Resource with Python
+
+Robert Haase
+
+Licensed cc-by-4.0
 
 
 
@@ -28,6 +34,8 @@ Content type: blog
 ## Collaborative bio-image analysis script editing with git
 
 Robert Haase
+
+Licensed cc-by-4.0
 
 
 
@@ -59,6 +67,8 @@ Content type: blog
 
 ## Feature extraction in napari
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -73,6 +83,8 @@ Content type: blog
 ## Getting started with Mambaforge and Python
 
 Mara Lampert
+
+Licensed cc-by-4.0
 
 
 
@@ -89,6 +101,8 @@ Content type: blog
 
 Robert Haase
 
+Licensed cc-by-4.0
+
 
 
 Blog post about why we should license our work and what is important when choosing a license.
@@ -104,6 +118,10 @@ Content type: blog
 
 ## Managing Scientific Python environments using Conda, Mamba and friends
 
+Robert Haase
+
+Licensed cc-by-4.0
+
 
 
 Tags: python, conda, mamba
@@ -116,6 +134,8 @@ Content type: blog
 ---
 
 ## Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
+
+Jennifer Waters
 
 
 
@@ -130,6 +150,8 @@ Content type: blog
 
 ## Quality assurance of segmentation results
 
+Mara Lampert
+
 
 
 Tags: python, napari, bioimage analysis
@@ -142,6 +164,8 @@ Content type: blog
 ---
 
 ## Rescaling images and pixel (an)isotropy
+
+Mara Lampert
 
 
 
@@ -157,6 +181,8 @@ Content type: blog
 ## Running Deep-Learning Scripts in the BiA-PoL Omero Server
 
 Marcelo Zoccoler
+
+Licensed cc-by-4.0
 
 
 
@@ -188,6 +214,8 @@ Content type: blog
 
 Robert Haase
 
+Licensed cc-by-4.0
+
 
 
 Blog post about how to share data using zenodo.org
@@ -202,6 +230,8 @@ Content type: blog
 ---
 
 ## Tracking in napari
+
+Mara Lampert
 
 
 

@@ -1,7 +1,9 @@
-# Research data management (31)
+# Research data management (34)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
+
+Licensed cc-by-4.0
 
 
 
@@ -33,6 +35,8 @@ Content type: publication
 
 Christian Tischer, Ashis Ravindran, Sabine Reither, Nicolas Chiaruttini, Rainer Pepperkok, Nils Norlin
 
+Licensed cc-by-4.0
+
 
 
 Tags: research data management, bioimage analysis
@@ -59,9 +63,28 @@ Content type: publication
 
 ---
 
+## Challenges and opportunities for bio-image analysis core-facilities
+
+Robert Haase
+
+Licensed cc-by-4.0
+
+
+
+Tags: research data management, bio-image analysis, NFDI4BioImage
+
+Content type: slide
+
+[https://f1000research.com/slides/12-1054](https://f1000research.com/slides/12-1054)
+
+
+---
+
 ## Challenges and opportunities for bioimage analysis core-facilities
 
 Johannes Richard Soltwedel, Robert Haase
+
+Licensed cc-by-4.0
 
 
 
@@ -79,6 +102,8 @@ Content type: publication
 ## Collaborative bio-image analysis script editing with git
 
 Robert Haase
+
+Licensed cc-by-4.0
 
 
 
@@ -112,7 +137,7 @@ Content type: blog
 
 Biernacka, Katarzyna; Cortez, Katrin;  Helbig, Kerstin
 
-Licensed CC-BY 4.0
+Licensed cc-by-4.0
 
 
 
@@ -129,6 +154,8 @@ Content type: document
 
 ## Forschungsdaten.info
 
+Licensed public domain
+
 
 
 Research Data Management Information Portal in German
@@ -143,6 +170,8 @@ Content type: collection
 ---
 
 ## Forschungsdaten.org
+
+Licensed cc-by-4.0
 
 
 
@@ -159,6 +188,8 @@ Content type: collection
 
 ## I3D:bio list of online training material
 
+Licensed unknown
+
 
 
 List of links to training materials by the I3D:bio community.
@@ -172,9 +203,36 @@ Content type: collection
 
 ---
 
+## I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training
+
+Schmidt, Christian, Bortolomeazzi, Michele, Boissonnet, Tom, Fortmann-Grote, Carsten, Dohle, Julia, Zentis, Peter, Kandpal, Niraj, Kunis, Susanne, Zobel, Thomas, Weidtkamp-Peters, Stefanie, Ferrando-May, Elisa
+
+Published 2023-11-13
+
+Licensed cc-by-4.0
+
+
+
+The open-source software OME Remote Objects (OMERO) is a data management software that allows storing, organizing, and annotating bioimaging/microscopy data. OMERO has become one of the best-known systems for bioimage data management in the bioimaging community. The Information Infrastructure for BioImage Data (I3D:bio) project facilitates the uptake of OMERO into research data management (RDM) practices at universities and research institutions in Germany. Since the adoption of OMERO into researchers' daily routines requires intensive training, a broad portfolio of training resources for OMERO is an asset. On top of using the OMERO guides curated by the Open Microscopy Environment Consortium (OME) team, imaging core facility staff at institutions where OMERO is used often prepare additional material tailored to be applicable for their own OMERO instances. Based on experience gathered in the Research Data Management for Microscopy group (RDM4mic) in Germany, and in the use cases in the I3D:bio project, we created a set of reusable, adjustable, openly available slide decks to serve as the basis for tailored training lectures, video tutorials, and self-guided instruction manuals directed at beginners in using OMERO. The material is published as an open educational resource complementing the existing resources for OMERO contributed by the community.
+
+Tags: omero, research data management, nfdi4bioimage, i3dbio
+
+Content type: slide, video
+
+[https://zenodo.org/records/8323588](https://zenodo.org/records/8323588)
+
+[https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU)
+
+[https://doi.org/10.5281/zenodo.8323588](https://doi.org/10.5281/zenodo.8323588)
+
+
+---
+
 ## If you license it, it’ll be harder to steal it. Why we should license our work
 
 Robert Haase
+
+Licensed cc-by-4.0
 
 
 
@@ -206,6 +264,8 @@ Content type: document
 
 Susanne Kunis, Sebastian Hänsch, Christian Schmidt, Frances Wong, Caterina Strambio-De-Castillia, Stefanie Weidtkamp-Peters
 
+Licensed All Rights Reserved
+
 
 
 Tags: research data management, meta data
@@ -236,6 +296,8 @@ Content type: tutorial
 
 Schmidt, Christian ; Ferrando-May, Elisa
 
+Licensed cc-by-sa-4.0
+
 
 
 Tags: NFDI4BioImage, Research Data Management
@@ -250,6 +312,8 @@ Content type: poster, publication
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
 Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
+
+Licensed cc-by-4.0
 
 
 
@@ -266,6 +330,8 @@ Content type: publication
 
 Thomas Zobel, Sarah Weischner, Jens Wendt
 
+Licensed All Rights Reserved
+
 
 
 A use case example from the Münster Imaging Network
@@ -281,6 +347,8 @@ Content type: publication
 
 ## Promoting Data Management at the Nikon Imaging Center and Cell Biology Microscopy Facility
 
+Jennifer Waters
+
 
 
 Tags: research data management
@@ -294,6 +362,8 @@ Content type: blog
 
 ## RDM4Mic Presentations
 
+Licensed cc-by-4.0
+
 
 
 Tags: research data management
@@ -306,6 +376,8 @@ Content type: collection
 ---
 
 ## RDMKit Training Resources
+
+Licensed cc-by-4.0
 
 
 
@@ -322,6 +394,8 @@ Content type: collection
 
 Ugis Sarkans et al
 
+Licensed All Rights Reserved
+
 
 
 Tags: research data management, meta data
@@ -336,6 +410,8 @@ Content type: publication
 ## Research Data Management Seminar - Slides
 
 Della Chiesa, Stefano
+
+Licensed cc-by-4.0
 
 
 
@@ -352,6 +428,8 @@ Content type: slide
 
 Christian Schmidt, Janina Hanne, Josh Moore, Christian Meesters, Elisa Ferrando-May, Stefanie Weidtkamp-Peters, members of the NFDI4BIOIMAGE initiative
 
+Licensed cc-by-4.0
+
 
 
 Tags: NFDI4BioImage, Research Data Management
@@ -366,6 +444,8 @@ Content type: publication
 ## Setting up a data management infrastructure for bioimaging
 
 Susanne Kunis, Karen Bernhardt and Michael Hensel
+
+Licensed Unclear
 
 
 
@@ -397,6 +477,8 @@ Content type: blog
 
 Robert Haase
 
+Licensed cc-by-4.0
+
 
 
 Introduction to sharing resources online and licensing
@@ -413,6 +495,8 @@ Content type: slide
 ## Sharing research data with Zenodo
 
 Robert Haase
+
+Licensed cc-by-4.0
 
 
 
@@ -446,6 +530,8 @@ Content type: tutorial
 
 Susanne Kunis
 
+Licensed cc-by-4.0
+
 
 
 Tags: NFDI4BioImage, research data management
@@ -457,9 +543,34 @@ Content type: video
 
 ---
 
+## Thinking data management on different scales
+
+Kunis, Susanne
+
+Published 2023-08-31
+
+Licensed cc-by-4.0
+
+
+
+Presentation given at PoL BioImage Analysis Symposium Dresden 2023
+
+Tags: research data management, NFDI4BioImage
+
+Content type: slide
+
+[https://zenodo.org/records/8329306](https://zenodo.org/records/8329306)
+
+[https://doi.org/10.5281/zenodo.8329306](https://doi.org/10.5281/zenodo.8329306)
+
+
+---
+
 ## Train-the-Trainer Concept on Research Data Management
 
 Biernacka, Katarzyna;  Bierwirth, Maik;  Buchholz, Petra;  Dolzycka, Dominika;  Helbig, Kerstin;  Neumann, Janna;  Odebrecht, Carolin;  Wiljes, Cord;  Wuttke, Ulrike
+
+Licensed cc-by-4.0
 
 
 
