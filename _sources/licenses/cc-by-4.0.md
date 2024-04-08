@@ -1,4 +1,4 @@
-# Cc-by-4.0 (46)
+# Cc-by-4.0 (49)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -48,6 +48,25 @@ Tags: research data management, bioimage analysis
 Content type: publication
 
 [https://doi.org/10.1093/bioinformatics/btab106](https://doi.org/10.1093/bioinformatics/btab106)
+
+
+---
+
+## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
+
+Cornelia Wetzker
+
+Licensed cc-by-4.0
+
+
+
+short introduction to research data management in bio-imaging and NFDI4BIOIMAGING for facilities of TU Dresden Technology Platform
+
+Tags: research data management, TU Dresden, bioimage data, NFDI4BIOIMAGE
+
+Content type: slide
+
+[https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
 
 ---
@@ -482,6 +501,23 @@ Content type: publication
 
 ---
 
+## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
+
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+
+Licensed CC-BY-4.0
+
+
+
+Tags: arc, DataPLANT, hackathon, NFDI4Bioimage, omero, python, research data management
+
+Content type: event, publication, documentation
+
+[https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
+
+
+---
+
 ## Nextflow: Scalable and reproducible scientific workflows
 
 Floden, Evan, Di Tommaso, Paolo
@@ -533,6 +569,23 @@ Tags: NFDI4BioImage, research data management
 Content type: publication
 
 [https://www.nature.com/articles/s41592-021-01326-w](https://www.nature.com/articles/s41592-021-01326-w)
+
+
+---
+
+## Open Image Data Handbook
+
+Kevin Yamauchi
+
+Licensed cc-by-4.0
+
+
+
+Tags: neubias, research data management, napari, python, bioimage analysis
+
+Content type: book, notebook
+
+[https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
 
 ---

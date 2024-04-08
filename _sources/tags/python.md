@@ -1,4 +1,4 @@
-# Python (48)
+# Python (51)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -129,6 +129,23 @@ Tags: Python, artificial intelligence, bioimage analysis
 Content type: notebook
 
 [https://github.com/maweigert/stardist-i2k](https://github.com/maweigert/stardist-i2k)
+
+
+---
+
+## Chris Halvin YouTube channel
+
+Licensed unknown
+
+
+
+Tags: napari, python, Bioimage analysis
+
+Content type: collection, video
+
+[https://www.youtube.com/@chrishavlin](https://www.youtube.com/@chrishavlin)
+
+[https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1](https://www.youtube.com/playlist?list=PLqbhAmYZU5KxuAcnNBIxyBkivUEiKswq1)
 
 
 ---
@@ -466,6 +483,8 @@ Content type: code, notebook
 
 [https://github.com/WhoIsJack/EMBL-CodingClub](https://github.com/WhoIsJack/EMBL-CodingClub)
 
+[https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/](https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/)
+
 
 ---
 
@@ -497,6 +516,23 @@ Tags: Python, neubias, bioimage analysis
 Content type: notebook
 
 [https://github.com/guiwitz/neubias_academy_biapy](https://github.com/guiwitz/neubias_academy_biapy)
+
+
+---
+
+## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
+
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+
+Licensed CC-BY-4.0
+
+
+
+Tags: arc, DataPLANT, hackathon, NFDI4Bioimage, omero, python, research data management
+
+Content type: event, publication, documentation
+
+[https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
 
 ---
@@ -548,6 +584,23 @@ Tags: python, bioimage analysis
 Content type: notebook
 
 [https://github.com/dwaithe/ONBI_image_analysis](https://github.com/dwaithe/ONBI_image_analysis)
+
+
+---
+
+## Open Image Data Handbook
+
+Kevin Yamauchi
+
+Licensed cc-by-4.0
+
+
+
+Tags: neubias, research data management, napari, python, bioimage analysis
+
+Content type: book, notebook
+
+[https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
 
 ---

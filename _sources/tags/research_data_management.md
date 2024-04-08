@@ -1,4 +1,4 @@
-# Research data management (34)
+# Research data management (38)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -44,6 +44,25 @@ Tags: research data management, bioimage analysis
 Content type: publication
 
 [https://doi.org/10.1093/bioinformatics/btab106](https://doi.org/10.1093/bioinformatics/btab106)
+
+
+---
+
+## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
+
+Cornelia Wetzker
+
+Licensed cc-by-4.0
+
+
+
+short introduction to research data management in bio-imaging and NFDI4BIOIMAGING for facilities of TU Dresden Technology Platform
+
+Tags: research data management, TU Dresden, bioimage data, NFDI4BIOIMAGE
+
+Content type: slide
+
+[https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
 
 ---
@@ -309,6 +328,36 @@ Content type: poster, publication
 
 ---
 
+## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
+
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+
+Licensed CC-BY-4.0
+
+
+
+Tags: arc, DataPLANT, hackathon, NFDI4Bioimage, omero, python, research data management
+
+Content type: event, publication, documentation
+
+[https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
+
+
+---
+
+## OME Event Database
+
+
+
+Tags: omero, research data management
+
+Content type: collection, event
+
+[https://www.openmicroscopy.org/events/](https://www.openmicroscopy.org/events/)
+
+
+---
+
 ## OME-NGFF: a next-generation file format for expanding bioimaging data-access strategies
 
 Josh Moore, Chris Allan, Sébastien Besson, Jean-Marie Burel, Erin Diel, David Gault, Kevin Kozlowski, Dominik Lindner, Melissa Linkert, Trevor Manz, Will Moore, Constantin Pape, Christian Tischer, Jason R. Swedlow
@@ -341,6 +390,23 @@ Tags: NFDI4BioImage, omero, research data management
 Content type: publication
 
 [https://analyticalscience.wiley.com/do/10.1002/was.0004000267/](https://analyticalscience.wiley.com/do/10.1002/was.0004000267/)
+
+
+---
+
+## Open Image Data Handbook
+
+Kevin Yamauchi
+
+Licensed cc-by-4.0
+
+
+
+Tags: neubias, research data management, napari, python, bioimage analysis
+
+Content type: book, notebook
+
+[https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
 
 ---

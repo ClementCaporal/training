@@ -1,4 +1,4 @@
-# Notebook (40)
+# Notebook (41)
 ## 2022 MIC Workshop on Bioimage processing with Python
 
 Guillaume Witz
@@ -436,6 +436,8 @@ Content type: code, notebook
 
 [https://github.com/WhoIsJack/EMBL-CodingClub](https://github.com/WhoIsJack/EMBL-CodingClub)
 
+[https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/](https://bio-it.embl.de/Coding%20Club/Curated%20Tutorials/)
+
 
 ---
 
@@ -554,6 +556,23 @@ Tags: python, bioimage analysis
 Content type: notebook
 
 [https://github.com/dwaithe/ONBI_image_analysis](https://github.com/dwaithe/ONBI_image_analysis)
+
+
+---
+
+## Open Image Data Handbook
+
+Kevin Yamauchi
+
+Licensed cc-by-4.0
+
+
+
+Tags: neubias, research data management, napari, python, bioimage analysis
+
+Content type: book, notebook
+
+[https://kevinyamauchi.github.io/open-image-data/intro.html](https://kevinyamauchi.github.io/open-image-data/intro.html)
 
 
 ---

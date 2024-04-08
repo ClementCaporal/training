@@ -1,4 +1,4 @@
-# Nfdi4bioimage (11)
+# Nfdi4bioimage (13)
 ## A Cloud-Optimized Storage for Interactive Access of Large Arrays
 
 Josh Moore, Susanne Kunis
@@ -12,6 +12,25 @@ Tags: NFDI4BioImage, research data management
 Content type: publication, conference abstract
 
 [https://doi.org/10.52825/cordi.v1i.285](https://doi.org/10.52825/cordi.v1i.285)
+
+
+---
+
+## Bio-Image Data Strudel for Workshop on Research Data Management in TU Dresden Core Facilities
+
+Cornelia Wetzker
+
+Licensed cc-by-4.0
+
+
+
+short introduction to research data management in bio-imaging and NFDI4BIOIMAGING for facilities of TU Dresden Technology Platform
+
+Tags: research data management, TU Dresden, bioimage data, NFDI4BIOIMAGE
+
+Content type: slide
+
+[https://zenodo.org/records/10083555](https://zenodo.org/records/10083555)
 
 
 ---
@@ -88,6 +107,23 @@ Tags: NFDI4BioImage
 Content type: publication
 
 [https://ceur-ws.org/Vol-3415/paper-27.pdf](https://ceur-ws.org/Vol-3415/paper-27.pdf)
+
+
+---
+
+## NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne Hackathon)
+
+Mohamed M. Abdrabbou, Mehrnaz Babaki, Tom Boissonnet, Michele Bortolomeazzi, Eik Dahms, Vanessa A. F. Fuchs, Moritz Hoevels, Niraj Kandpal, Christoph Möhl, Joshua A. Moore, Astrid Schauss, Andrea Schrader, Torsten Stöter, Julia Thönnißen, Monica Valencia-S., H. Lukas Weil, Jens Wendt and Peter Zentis
+
+Licensed CC-BY-4.0
+
+
+
+Tags: arc, DataPLANT, hackathon, NFDI4Bioimage, omero, python, research data management
+
+Content type: event, publication, documentation
+
+[https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023](https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023)
 
 
 ---
